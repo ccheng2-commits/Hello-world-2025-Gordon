@@ -64,7 +64,7 @@ Each state represents one stage of audience interaction and system behavior, cle
 
 ---
 
-EXHIBIT — The system displays all previously generated Digital Iris images, forming a “digital iris wall.”
+IDLE_EXHIBIT — The system displays all previously generated Digital Iris images, forming a “digital iris wall.”
 → Transitions to CAPTURE when a new visitor approaches and the operator is ready to take a photo.
 
 CAPTURE — The operator manually captures the visitor’s iris image.
