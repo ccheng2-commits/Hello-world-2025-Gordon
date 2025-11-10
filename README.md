@@ -52,7 +52,8 @@ Later, players must win consecutively before they can proceed to a flip coin sta
 # Week 4-6
 Keep rewinding 
 
-# Week 7 :For this exercise, I attempted to build a simple Snake Game using pygame.
+# Week 7 :
+    ###For this exercise, I attempted to build a simple Snake Game using pygame.
 I started by installing the library, then learned how to control movements through keyboard inputs.
 The main mechanic is that when the snake “eats” food, it grows longer.
 Finally, I used pygame’s drawing functions to render blocks on the screen.
